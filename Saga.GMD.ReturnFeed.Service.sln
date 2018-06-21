@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saga.GMD.ReturnFeed.Service", "Saga.GMD.ReturnFeed.Service\Saga.GMD.ReturnFeed.Service.csproj", "{D07E88A6-9380-4E6E-8210-A7DE42F10789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesbed", "ConsoleApplication1\Tesbed.csproj", "{8B6D50A8-2DA9-4CB8-884C-7F601048D686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		UAT|Any CPU = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07E88A6-9380-4E6E-8210-A7DE42F10789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07E88A6-9380-4E6E-8210-A7DE42F10789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07E88A6-9380-4E6E-8210-A7DE42F10789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07E88A6-9380-4E6E-8210-A7DE42F10789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07E88A6-9380-4E6E-8210-A7DE42F10789}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{D07E88A6-9380-4E6E-8210-A7DE42F10789}.UAT|Any CPU.Build.0 = UAT|Any CPU
+		{8B6D50A8-2DA9-4CB8-884C-7F601048D686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6D50A8-2DA9-4CB8-884C-7F601048D686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6D50A8-2DA9-4CB8-884C-7F601048D686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6D50A8-2DA9-4CB8-884C-7F601048D686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6D50A8-2DA9-4CB8-884C-7F601048D686}.UAT|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6D50A8-2DA9-4CB8-884C-7F601048D686}.UAT|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://gmdtfs:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Saga.GMD.ReturnFeed.Service\\Saga.GMD.ReturnFeed.Service.csproj
+		SccProjectName1 = Saga.GMD.ReturnFeed.Service
+		SccLocalPath1 = Saga.GMD.ReturnFeed.Service
+		SccProjectUniqueName2 = ConsoleApplication1\\Tesbed.csproj
+		SccProjectName2 = ConsoleApplication1
+		SccLocalPath2 = ConsoleApplication1
+	EndGlobalSection
+EndGlobal

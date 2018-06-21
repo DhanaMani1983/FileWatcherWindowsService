@@ -1,0 +1,2 @@
+C:\TFS\Trunk\New folder\DotNet Windows Services\Saga.GMD.DocumentLanding.Filewatcher\Saga.GMD.ReturnFeed.Service\Saga.GMD.ReturnFeed.Service\bin\Debug\Saga.GMD.ReturnFeed.Service.exe.config
+C:\TFS\FileWatcher\Saga.GMD.ReturnFeed.Service\bin\Debug\Saga.GMD.ReturnFeed.Service.exe.config
